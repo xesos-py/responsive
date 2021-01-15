@@ -29,7 +29,7 @@
     }
     .content {
         grid-template-columns: 1fr 1fr;
-        -webkit-grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
     }
 }
 @media (max-width: 420px) {
